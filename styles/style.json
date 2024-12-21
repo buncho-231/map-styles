@@ -6,7 +6,7 @@
       "attribution": "<a href=\"https://github.com/protomaps/basemaps\">Protomaps</a> © <a href=\"https://openstreetmap.org\">OpenStreetMap</a>",
       "type": "vector",
       "tiles": [
-        "https://api.protomaps.com/tiles/v4/{z}/{x}/{y}.pbf?key=d828297496b11844"
+        "https://api.protomaps.com/tiles/v4/{z}/{x}/{y}.pbf?key=1579af7b939a278d"
       ],
       "maxzoom": 15
     }
